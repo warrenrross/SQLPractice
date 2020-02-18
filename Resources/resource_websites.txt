@@ -1,0 +1,8 @@
+
+https://www.tutorialspoint.com/python_data_access/python_mysql_create_table.htm
+
+https://dev.mysql.com/doc/refman/8.0/en/creating-database.html
+
+
+
+https://www.w3schools.com/python/python_mysql_create_table.asp
